@@ -1,0 +1,4 @@
+Timing: python_color2sepia
+Average runtime running python_color2sepia after 3 runs: 5.956955255666666s
+Timing performed using: timeit
+Shape of image: 600x400x3
